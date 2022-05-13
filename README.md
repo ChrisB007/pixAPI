@@ -1,6 +1,6 @@
 ## Pixabay
 
-This app is based on Pixabay API (https://pixabay.com/api/docs/)
+This is a simple app is based on Pixabay API (https://pixabay.com/api/docs/). You can search images and filter by tag names, click to see details pages to get more information about the image.
 It can be viewed at (https://pix-api.vercel.app/)
 
 ## TechStack
